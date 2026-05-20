@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Vinicius Lemos
 **`Junior Developer`**
 
-Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender mais e evoluir através de projetos e estudos na área.
+Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender mais e evoluir através de projetos e estudos na área. Me acompanhe no [Instagram](https://instagram.com/lemoss06)!
 
 <p align="left">
   <a href="https://github.com/ViniciuscLemos?tab=followers">
@@ -22,7 +22,7 @@ Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou a
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
   <img alt="HTML" title="HTML" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
