@@ -42,11 +42,11 @@ Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou a
   <img 
     alt="GitHub Stats" 
     height="180px"
-    src="https://github-readme-stats.vercel.app/api?username=ViniciuscLemos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciuscLemos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
   />
   <img 
     alt="Linguagens mais usadas" 
     height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuscLemos&theme=tokyonight&layout=compact&langs_count=7&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuscLemos&theme=tokyonight&layout=compact&langs_count=7&locale=pt-br&cache_seconds=1800"
   />
 </p>
