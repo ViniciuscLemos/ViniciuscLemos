@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Lemos
+# 👨🏻‍💻 Vinicius Lemos
 
 **`DesenvolvedorJunior`**
 
