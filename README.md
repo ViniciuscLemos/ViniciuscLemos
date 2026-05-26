@@ -46,9 +46,4 @@ Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou a
     alt="GitHub Streak" 
     src="https://streak-stats.demolab.com?user=ViniciuscLemos&theme=tokyonight&hide_border=true&locale=pt_BR"
   />
-  <br/>
-  <img 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuscLemos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&show_icons=true&v=1"
-  />
 </p>
