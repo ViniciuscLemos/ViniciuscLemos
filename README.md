@@ -32,6 +32,9 @@ Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou a
   <img alt="C" title="C" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img alt="C++" title="C++" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="MySQL" title="MySQL" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="SQLite" title="SQLite" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 ---
@@ -42,5 +45,10 @@ Me chamo Vinicius Lemos, tenho 19 anos e curso Engenharia da Computação. Sou a
   <img 
     alt="GitHub Streak" 
     src="https://streak-stats.demolab.com?user=ViniciuscLemos&theme=tokyonight&hide_border=true&locale=pt_BR"
+  />
+  <br/>
+  <img 
+    alt="Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuscLemos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
   />
 </p>
