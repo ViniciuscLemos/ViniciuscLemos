@@ -4,23 +4,11 @@ Estudante do **4º semestre de Engenharia da Computação** na **Universidade Pr
 
 ---
 
-### 💼 Experiência
-
-**Sistema de gestão de manutenção de frota** · Transporte público
-- Desenvolvimento de um sistema web em **React + Vite + Mantine** para controle das ordens de serviço de manutenção de ônibus
-- Módulos por setor (mecânica, borracharia, funilaria etc.) com filtragem de tarefas por perfil de usuário
-- Roteamento automático do veículo entre as etapas da manutenção, incluindo regras para veículos elétricos
-- Painel de TV para acompanhamento em tempo real na área de abastecimento
-- Integração com dados reais de ordens de serviço exportados do sistema da empresa
-
----
-
 ### 🛠️ Tecnologias
 
 <p align="left">
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="React" title="React" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Vite" title="Vite" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
   <img alt="Node.js" title="Node.js" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img alt="HTML" title="HTML" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
