@@ -29,7 +29,7 @@ Estudante do **4º semestre de Engenharia da Computação** na **Universidade Pr
 - **[analisador-csv-python](https://github.com/ViniciuscLemos/analisador-csv-python)**: lê um CSV de vendas e gera um relatório usando SQL.
 - **[batalha-naval](https://github.com/ViniciuscLemos/batalha-naval)**: refatoração de um trabalho da faculdade que era uma classe só.
 
-Também tem coisa menor, tipo um [gerenciador de biblioteca em C](https://github.com/ViniciuscLemos/gerenciador-biblioteca-c) e uma [lista de tarefas](https://github.com/ViniciuscLemos/lista-de-tarefas) de quando eu tava começando com Python.
+Também tem coisa menor, como um [gerenciador de biblioteca em C](https://github.com/ViniciuscLemos/gerenciador-biblioteca-c) e uma [lista de tarefas](https://github.com/ViniciuscLemos/lista-de-tarefas) de quando eu tava começando com Python.
 
 ---
 
