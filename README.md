@@ -23,7 +23,7 @@ Estudante do **4º semestre de Engenharia da Computação** na **Universidade Pr
 ### Alguns projetos
 
 - **[loja-virtual](https://github.com/ViniciuscLemos/loja-virtual)** (em construção): e-commerce com pagamento pelo Stripe, login com permissões de cliente e admin e envio de e-mails. TypeScript, Express e PostgreSQL. É o maior projeto que tô fazendo, por etapas.
-- **[clima-agora](https://github.com/ViniciuscLemos/clima-agora)**: app de previsão do tempo em React + Node usando a API da OpenWeather. Foi o que eu mais curti fazer.
+- **[clima-agora](https://github.com/ViniciuscLemos/clima-agora)**: app de previsão do tempo em React + Node usando a API da OpenWeather. Foi o que eu mais curti fazer. [Dá pra usar online](https://clima-agora-g5jz.onrender.com).
 - **[controle-de-gastos](https://github.com/ViniciuscLemos/controle-de-gastos)**: controle de gastos do mês em React, com gráfico por categoria e exportação pra CSV. [Dá pra usar online](https://viniciusclemos.github.io/controle-de-gastos/).
 - **[api-tarefas-nodejs](https://github.com/ViniciuscLemos/api-tarefas-nodejs)**: API de tarefas com login (JWT) e PostgreSQL. Dá pra subir com Docker.
 - **[sistema-bancario-java](https://github.com/ViniciuscLemos/sistema-bancario-java)**: banco no terminal feito em Java com SQLite.
