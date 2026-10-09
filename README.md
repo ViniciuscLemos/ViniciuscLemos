@@ -21,6 +21,19 @@
 
 ---
 
+### Live projects
+
+<a href="https://online-store-6ogi.onrender.com"><img src="https://raw.githubusercontent.com/ViniciuscLemos/online-store/main/web/public/og-image.png" alt="Online Store: full-stack e-commerce" width="100%"></a>
+
+<p>
+  <a href="https://clima-agora-g5jz.onrender.com"><img src="https://raw.githubusercontent.com/ViniciuscLemos/weather-now/main/web/public/og-image.png" alt="Weather Now" width="49%"></a>
+  <a href="https://viniciusclemos.github.io/expense-tracker/"><img src="https://raw.githubusercontent.com/ViniciuscLemos/expense-tracker/main/public/og-image.png" alt="Expense Tracker" width="49%"></a>
+</p>
+
+Click an image to open the site. The free server takes about 30 seconds to wake up on the first visit.
+
+---
+
 ### Some projects
 
 - **[online-store](https://github.com/ViniciuscLemos/online-store)**: full e-commerce with Stripe payments, email confirmation and password reset, stock that can't oversell, and an admin panel. TypeScript, Express, PostgreSQL and React, with 78 integration tests. The biggest project I've built, made in stages. [Try it online](https://online-store-6ogi.onrender.com).
