@@ -30,7 +30,7 @@
   <a href="https://viniciusclemos.github.io/expense-tracker/"><img src="https://raw.githubusercontent.com/ViniciuscLemos/expense-tracker/main/public/og-image.png" alt="Expense Tracker" width="49%"></a>
 </p>
 
-Click an image to open the site. The free server takes about 30 seconds to wake up on the first visit.
+Click an image to open the site. The store and the weather app run on a free server that takes about 30 seconds to wake up on the first visit.
 
 ---
 
