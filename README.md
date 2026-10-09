@@ -23,7 +23,7 @@
 
 ### Some projects
 
-- **[online-store](https://github.com/ViniciuscLemos/online-store)** (in progress): e-commerce with Stripe payments, login with customer and admin permissions and emails. TypeScript, Express, PostgreSQL and React. It's the biggest project I'm working on, built in stages.
+- **[online-store](https://github.com/ViniciuscLemos/online-store)**: full e-commerce with Stripe payments, email confirmation and password reset, stock that can't oversell, and an admin panel. TypeScript, Express, PostgreSQL and React, with 78 integration tests. The biggest project I've built, made in stages. [Try it online](https://online-store-6ogi.onrender.com).
 - **[weather-now](https://github.com/ViniciuscLemos/weather-now)**: weather forecast app in React + Node using the OpenWeather API. The one I enjoyed building the most. [Try it online](https://clima-agora-g5jz.onrender.com).
 - **[expense-tracker](https://github.com/ViniciuscLemos/expense-tracker)**: monthly expense tracker in React, with a chart by category and CSV export. Works offline as a PWA. [Try it online](https://viniciusclemos.github.io/expense-tracker/).
 - **[task-api-nodejs](https://github.com/ViniciuscLemos/task-api-nodejs)**: task API with login (JWT) and PostgreSQL. Runs with Docker.
