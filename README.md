@@ -1,13 +1,14 @@
 # 👨🏻‍💻 Vinicius Lemos
 
-Estudante do **4º semestre de Engenharia da Computação** na **Universidade Presbiteriana Mackenzie** e desenvolvedor focado em aplicações web com **React**. Gosto de transformar processos manuais em sistemas que resolvem problemas reais.
+**4th semester Computer Engineering** student at **Universidade Presbiteriana Mackenzie** (São Paulo, Brazil) and a developer focused on web apps with **React** and **Node.js**. I like turning manual processes into systems that solve real problems.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tech
 
 <p align="left">
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img alt="React" title="React" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img alt="Node.js" title="Node.js" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img alt="Python" title="Python" width="40px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -20,22 +21,22 @@ Estudante do **4º semestre de Engenharia da Computação** na **Universidade Pr
 
 ---
 
-### Alguns projetos
+### Some projects
 
-- **[loja-virtual](https://github.com/ViniciuscLemos/loja-virtual)** (em construção): e-commerce com pagamento pelo Stripe, login com permissões de cliente e admin e envio de e-mails. TypeScript, Express e PostgreSQL. É o maior projeto que tô fazendo, por etapas.
-- **[clima-agora](https://github.com/ViniciuscLemos/clima-agora)**: app de previsão do tempo em React + Node usando a API da OpenWeather. Foi o que eu mais curti fazer. [Dá pra usar online](https://clima-agora-g5jz.onrender.com).
-- **[controle-de-gastos](https://github.com/ViniciuscLemos/controle-de-gastos)**: controle de gastos do mês em React, com gráfico por categoria e exportação pra CSV. [Dá pra usar online](https://viniciusclemos.github.io/controle-de-gastos/).
-- **[api-tarefas-nodejs](https://github.com/ViniciuscLemos/api-tarefas-nodejs)**: API de tarefas com login (JWT) e PostgreSQL. Dá pra subir com Docker.
-- **[sistema-bancario-java](https://github.com/ViniciuscLemos/sistema-bancario-java)**: banco no terminal feito em Java com SQLite.
-- **[webscraper-python](https://github.com/ViniciuscLemos/webscraper-python)**: scraper de livros com requests + BeautifulSoup.
-- **[analisador-csv-python](https://github.com/ViniciuscLemos/analisador-csv-python)**: lê um CSV de vendas e gera um relatório usando SQL.
-- **[batalha-naval](https://github.com/ViniciuscLemos/batalha-naval)**: refatoração de um trabalho da faculdade que era uma classe só.
+- **[online-store](https://github.com/ViniciuscLemos/online-store)** (in progress): e-commerce with Stripe payments, login with customer and admin permissions and emails. TypeScript, Express, PostgreSQL and React. It's the biggest project I'm working on, built in stages.
+- **[weather-now](https://github.com/ViniciuscLemos/weather-now)**: weather forecast app in React + Node using the OpenWeather API. The one I enjoyed building the most. [Try it online](https://clima-agora-g5jz.onrender.com).
+- **[expense-tracker](https://github.com/ViniciuscLemos/expense-tracker)**: monthly expense tracker in React, with a chart by category and CSV export. Works offline as a PWA. [Try it online](https://viniciusclemos.github.io/expense-tracker/).
+- **[task-api-nodejs](https://github.com/ViniciuscLemos/task-api-nodejs)**: task API with login (JWT) and PostgreSQL. Runs with Docker.
+- **[banking-system-java](https://github.com/ViniciuscLemos/banking-system-java)**: terminal bank written in Java with SQLite.
+- **[webscraper-python](https://github.com/ViniciuscLemos/webscraper-python)**: book scraper with requests + BeautifulSoup.
+- **[csv-analyzer-python](https://github.com/ViniciuscLemos/csv-analyzer-python)**: reads a sales CSV and builds a report using SQL.
+- **[battleship-java](https://github.com/ViniciuscLemos/battleship-java)**: a refactor of a college assignment that was a single class.
 
-Também tem coisa menor, como um [gerenciador de biblioteca em C](https://github.com/ViniciuscLemos/gerenciador-biblioteca-c) e uma [lista de tarefas](https://github.com/ViniciuscLemos/lista-de-tarefas) de quando eu tava começando com Python.
+There's smaller stuff too, like a [library manager in C](https://github.com/ViniciuscLemos/library-manager-c) and a [to-do list](https://github.com/ViniciuscLemos/todo-list) from when I was starting out with Python.
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viniciusclemos">
