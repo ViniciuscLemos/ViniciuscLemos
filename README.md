@@ -49,9 +49,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ViniciuscLemos/price-watch-n8n"><img src="https://raw.githubusercontent.com/ViniciuscLemos/price-watch-n8n/main/docs/workflow.png" alt="The n8n workflow" width="100%"></a>
+      <a href="https://github.com/ViniciuscLemos/price-watch-n8n"><img src="https://raw.githubusercontent.com/ViniciuscLemos/price-watch-n8n/main/docs/n8n-run.png" alt="The n8n workflow after a run, sending deals to Discord, the phone and WhatsApp" width="100%"></a>
       <h4><a href="https://github.com/ViniciuscLemos/price-watch-n8n">price-watch-n8n</a></h4>
-      Price alerts: a Python API keeps the price history and an n8n workflow checks every morning and posts drops to Discord. CI runs the real workflow against a fake Discord.<br><br>
+      Steam sale alerts: every morning n8n checks the games on my list (in R$) and sends the deals to Discord, a push on my phone or WhatsApp. CI runs the real workflow against a fake Steam and fake senders.<br><br>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
