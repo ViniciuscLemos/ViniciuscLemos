@@ -78,6 +78,7 @@ Click an image to open the site. The store and the weather app run on a free ser
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [overlog](https://github.com/ViniciuscLemos/overlog) | The gym log I'm building for myself: weight, reps and RIR on every set, unlimited workouts, works offline. In progress. [Live](https://viniciusclemos.github.io/overlog/) | React, TypeScript, PWA |
 | [expense-tracker](https://github.com/ViniciuscLemos/expense-tracker) | Monthly expenses with a chart by category and CSV export, works offline as a PWA. [Live](https://viniciusclemos.github.io/expense-tracker/) | React, Vite |
 | [task-api-nodejs](https://github.com/ViniciuscLemos/task-api-nodejs) | Task API with JWT login and interactive Swagger docs | Node, Express, PostgreSQL, Docker |
 | [banking-system-java](https://github.com/ViniciuscLemos/banking-system-java) | A bank in the terminal: accounts, transfers inside a DB transaction, CPF validation | Java, SQLite |
