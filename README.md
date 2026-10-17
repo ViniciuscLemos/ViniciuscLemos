@@ -18,7 +18,8 @@
 
 - 🎓 4th semester of **Computer Engineering** at **Universidade Presbiteriana Mackenzie**, in São Paulo
 - 🛠️ I mostly build **full-stack web apps** (React + Node/TypeScript) and **automations** in Python
-- 🎮 Latest thing: a [Minecraft bot](https://github.com/ViniciuscLemos/minecraft-ai-agent) that goes from empty pockets to a finished house on its own
+- 🏋️ Building now: [Overlog](https://github.com/ViniciuscLemos/overlog), the gym log I use myself, built around training close to failure and adding weight over time
+- 🎮 Before that: a [Minecraft bot](https://github.com/ViniciuscLemos/minecraft-ai-agent) that goes from empty pockets to a finished house on its own
 - ✅ I like projects that test the real thing: CI here spins up Postgres, n8n and even a Minecraft server
 - 🌎 Fluent in English
 
