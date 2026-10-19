@@ -79,7 +79,6 @@ Click an image to open the site. The store and the weather app run on a free ser
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [electron-radar](https://github.com/ViniciuscLemos/electron-radar) | How far behind is the Chrome inside your desktop apps? A CLI that checks the Electron apps on your computer, and a monthly radar of 10 popular ones built by GitHub Actions. [Live](https://viniciusclemos.github.io/electron-radar/) | Node.js, GitHub Actions |
 | [overlog](https://github.com/ViniciuscLemos/overlog) | The gym log I'm building for myself: weight, reps and RIR on every set, unlimited workouts, works offline. In progress. [Live](https://viniciusclemos.github.io/overlog/) | React, TypeScript, PWA |
 | [expense-tracker](https://github.com/ViniciuscLemos/expense-tracker) | Monthly expenses with a chart by category and CSV export, works offline as a PWA. [Live](https://viniciusclemos.github.io/expense-tracker/) | React, Vite |
 | [task-api-nodejs](https://github.com/ViniciuscLemos/task-api-nodejs) | Task API with JWT login and interactive Swagger docs | Node, Express, PostgreSQL, Docker |
