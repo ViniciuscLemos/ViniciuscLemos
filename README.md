@@ -96,5 +96,5 @@ The live sites run on a free server that takes about 30 seconds to wake up on th
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=ViniciuscLemos&theme=transparent&hide_border=true" alt="Contribution streak" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciuscLemos&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" height="165">
+  <img src="assets/languages.svg" alt="Most used languages: TypeScript, JavaScript, Java, Python, CSS, C" height="165">
 </p>
