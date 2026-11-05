@@ -95,6 +95,6 @@ The live sites run on a free server that takes about 30 seconds to wake up on th
 ### GitHub
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=ViniciuscLemos&theme=transparent&hide_border=true" alt="Contribution streak" height="165">
+  <img src="assets/contributions.svg" alt="Contributions in the last year and the current streak" height="165">
   <img src="assets/languages.svg" alt="Most used languages: TypeScript, JavaScript, Java, Python, CSS, C" height="165">
 </p>
