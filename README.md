@@ -49,6 +49,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/ViniciuscLemos/booking-system"><img src="assets/booking-system.png" alt="Booking a haircut: the days with how many free times each, and the free times of the day picked" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/booking-system">booking-system</a> · <a href="https://booking-system-j7po.onrender.com">live</a></h4>
+      Online booking for a barbershop or a clinic. The rules are the point: lunch breaks, clean-up time between clients, days off, and a Postgres constraint so two people can never get the same time, even clicking at the same moment.<br><br>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ViniciuscLemos/url-shortener"><img src="assets/trail.png" alt="trail: the clicks of one short link per day, where they came from, device and browser" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/url-shortener">trail</a> · <a href="https://trail-sfqz.onrender.com">live</a></h4>
+      A link shortener that tells you who clicked: clicks per day, where they came from, phone or computer. Bots and link previews don't count, and clicks are written in batches so the redirect stays fast.<br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/ViniciuscLemos/online-store"><img src="assets/online-store.png" alt="The online store's shop page" width="100%"></a>
       <h4><a href="https://github.com/ViniciuscLemos/online-store">online-store</a> · <a href="https://online-store-6ogi.onrender.com">live</a></h4>
       Full e-commerce: Stripe payments, email confirmation, password reset, stock that can't oversell and an admin panel. The biggest thing I've built, with integration and e2e tests.<br><br>
