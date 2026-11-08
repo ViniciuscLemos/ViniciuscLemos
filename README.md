@@ -98,6 +98,7 @@ The live sites run on a free server that takes about 30 seconds to wake up on th
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [expense-tracker](https://github.com/ViniciuscLemos/expense-tracker) | The month's money told in plain sentences, with budgets per category and a calendar of the days that cost the most. Accounts, a Python API and e2e tests against a real Postgres. [Live](https://expense-tracker-qm7l.onrender.com) | React, FastAPI, PostgreSQL |
+| [shortlist](https://github.com/ViniciuscLemos/shortlist) | Paste a resume and a job ad: what they require, the line of the resume that shows each one, what's missing and what to fix before sending. Runs in the browser, PDF included. [Live](https://viniciusclemos.github.io/shortlist/) | React, TypeScript, pdf.js |
 | [task-api-nodejs](https://github.com/ViniciuscLemos/task-api-nodejs) | Task API with JWT login and interactive Swagger docs | Node, Express, PostgreSQL, Docker |
 | [banking-system-java](https://github.com/ViniciuscLemos/banking-system-java) | A bank in the terminal: accounts, transfers inside a DB transaction, CPF validation | Java, SQLite |
 | [webscraper-python](https://github.com/ViniciuscLemos/webscraper-python) | Book scraper that saves to PostgreSQL or CSV/JSON and builds an HTML gallery | Python, BeautifulSoup |
