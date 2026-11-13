@@ -18,7 +18,7 @@
 
 - 4th semester of **Computer Engineering** at **Universidade Presbiteriana Mackenzie**, in São Paulo
 - I mostly build **full-stack web apps** (React + Node/TypeScript) and **automations** in Python
-- Building now: [RECON](https://github.com/ViniciuscLemos/recon), a reverse engineering tool that takes apart binaries with no source and no symbols, and [Overlog](https://github.com/ViniciuscLemos/overlog), the gym log I use myself
+- Lately: four web apps that get a new feature most weeks ([booking](https://github.com/ViniciuscLemos/booking-system), [trail](https://github.com/ViniciuscLemos/url-shortener), [expense-tracker](https://github.com/ViniciuscLemos/expense-tracker) and [shortlist](https://github.com/ViniciuscLemos/shortlist)), and [Overlog](https://github.com/ViniciuscLemos/overlog), the gym log I use myself. [RECON](https://github.com/ViniciuscLemos/recon) is paused for now
 - I like projects that test the real thing: CI here spins up Postgres, n8n and even a Minecraft server
 - Fluent in English
 
@@ -35,30 +35,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ViniciuscLemos/recon"><img src="assets/recon.png" alt="Call graph RECON rebuilt from a binary with no function names" width="100%"></a>
-      <h4><a href="https://github.com/ViniciuscLemos/recon">recon</a></h4>
-      Reverse engineering for unknown binaries. It reads PE and ELF files, disassembles the x86-64 code, rebuilds who calls whom and shows which functions changed between two versions, even with every name stripped out.<br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/x86--64-555555?style=flat-square"/> <img src="https://img.shields.io/badge/Capstone_%2B_LIEF-8B0000?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ViniciuscLemos/minecraft-ai-agent"><img src="https://raw.githubusercontent.com/ViniciuscLemos/minecraft-ai-agent/main/docs/demo.gif" alt="The bot building a farmhouse" width="100%"></a>
-      <h4><a href="https://github.com/ViniciuscLemos/minecraft-ai-agent">minecraft-ai-agent</a></h4>
-      A bot that plays Minecraft on your own server. You ask in plain text, it plans the steps and tested skills do the work: wood, tools, stone, glass and a whole farmhouse in about 30 minutes.<br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/mineflayer-62B47A?style=flat-square"/> <img src="https://img.shields.io/badge/scenario_tests_in_CI-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/ViniciuscLemos/booking-system"><img src="assets/booking-system.png" alt="Booking a haircut: the days with how many free times each, and the free times of the day picked" width="100%"></a>
       <h4><a href="https://github.com/ViniciuscLemos/booking-system">booking-system</a> · <a href="https://booking-system-j7po.onrender.com">live</a></h4>
-      Online booking for a barbershop or a clinic. The rules are the point: lunch breaks, clean-up time between clients, days off, and a Postgres constraint so two people can never get the same time, even clicking at the same moment.<br><br>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      Online booking for a barbershop or a clinic. The rules are the point: lunch breaks, clean-up time between clients, a team with their own hours, and a Postgres constraint so two people never get the same time, even clicking at the same moment. The owner gets a waiting list, reminders and the month in numbers.<br><br>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ViniciuscLemos/url-shortener"><img src="assets/trail.png" alt="trail: the clicks of one short link per day, where they came from, device and browser" width="100%"></a>
       <h4><a href="https://github.com/ViniciuscLemos/url-shortener">trail</a> · <a href="https://trail-sfqz.onrender.com">live</a></h4>
-      A link shortener that tells you who clicked: clicks per day, where they came from, phone or computer. Bots and link previews don't count, and clicks are written in batches so the redirect stays fast.<br><br>
+      A link shortener that tells you who clicked: per day and per hour, where from, phone or computer. Links can have a password or an end date, a QR code in a brand color, or be made fifty at a time from a spreadsheet. Bots and link previews don't count.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ViniciuscLemos/expense-tracker"><img src="assets/expense-tracker.png" alt="Marina's November: a few sentences about the month, what came in and went out, the line to write an expense and the budgets" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/expense-tracker">expense-tracker</a> · <a href="https://expense-tracker-qm7l.onrender.com">live</a></h4>
+      The month's money told in plain sentences, with budgets, goals, the year at a glance and bills split with a flatmate. It reads the bank's CSV, suggests what should be automatic, and keeps working with no signal.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ViniciuscLemos/shortlist"><img src="assets/shortlist.png" alt="A resume against a job ad: 81 out of 100, what they require with the line of the resume that shows each one, and what is missing" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/shortlist">shortlist</a> · <a href="https://viniciusclemos.github.io/shortlist/">live</a></h4>
+      Paste a resume and a job ad: what they require, the line of the resume that shows each one, what's missing and how to show it, which of your saved ads fits best, and a cover letter to start from. All in the browser, PDF and Word included.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/no_server-555555?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -69,10 +69,24 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/ViniciuscLemos/minecraft-ai-agent"><img src="https://raw.githubusercontent.com/ViniciuscLemos/minecraft-ai-agent/main/docs/demo.gif" alt="The bot building a farmhouse" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/minecraft-ai-agent">minecraft-ai-agent</a></h4>
+      A bot that plays Minecraft on your own server. You ask in plain text, it plans the steps and tested skills do the work: wood, tools, stone, glass and a whole farmhouse in about 30 minutes.<br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/mineflayer-62B47A?style=flat-square"/> <img src="https://img.shields.io/badge/scenario_tests_in_CI-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/ViniciuscLemos/overlog"><img src="assets/overlog.png" alt="Overlog: logging a set, editing a workout and the progress chart" width="100%"></a>
       <h4><a href="https://github.com/ViniciuscLemos/overlog">overlog</a> · <a href="https://viniciusclemos.github.io/overlog/">live</a></h4>
       The gym log I'm building for myself: weight, reps and RIR on every set, what to lift next time, unlimited workouts and it works offline. Still in progress.<br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ViniciuscLemos/weather-now"><img src="assets/weather-now.png" alt="Weather Now showing the forecast" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/weather-now">weather-now</a> · <a href="https://clima-agora-g5jz.onrender.com">live</a></h4>
+      Weather for any city: now, the next hours, the week and air quality, with animated icons and a dark mode. The one I enjoyed building the most.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -83,10 +97,10 @@
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ViniciuscLemos/weather-now"><img src="assets/weather-now.png" alt="Weather Now showing the forecast" width="100%"></a>
-      <h4><a href="https://github.com/ViniciuscLemos/weather-now">weather-now</a> · <a href="https://clima-agora-g5jz.onrender.com">live</a></h4>
-      Weather for any city: now, the next hours, the week and air quality, with animated icons and a dark mode. The one I enjoyed building the most.<br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+      <a href="https://github.com/ViniciuscLemos/recon"><img src="assets/recon.png" alt="Call graph RECON rebuilt from a binary with no function names" width="100%"></a>
+      <h4><a href="https://github.com/ViniciuscLemos/recon">recon</a></h4>
+      Reverse engineering for unknown binaries. It reads PE and ELF files, disassembles the x86-64 code, rebuilds who calls whom and shows which functions changed between two versions, even with every name stripped out. Paused for now.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/x86--64-555555?style=flat-square"/> <img src="https://img.shields.io/badge/Capstone_%2B_LIEF-8B0000?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -97,8 +111,7 @@ The live sites run on a free server that takes about 30 seconds to wake up on th
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [expense-tracker](https://github.com/ViniciuscLemos/expense-tracker) | The month's money told in plain sentences, with budgets per category and a calendar of the days that cost the most. Accounts, a Python API and e2e tests against a real Postgres. [Live](https://expense-tracker-qm7l.onrender.com) | React, FastAPI, PostgreSQL |
-| [shortlist](https://github.com/ViniciuscLemos/shortlist) | Paste a resume and a job ad: what they require, the line of the resume that shows each one, what's missing and what to fix before sending. Runs in the browser, PDF included. [Live](https://viniciusclemos.github.io/shortlist/) | React, TypeScript, pdf.js |
+| [sentinel](https://github.com/ViniciuscLemos/sentinel) | Looks into a suspicious message (a scam, phishing, a fake bank) and says why it is or isn't one. Paused for now | Java, Spring |
 | [task-api-nodejs](https://github.com/ViniciuscLemos/task-api-nodejs) | Task API with JWT login and interactive Swagger docs | Node, Express, PostgreSQL, Docker |
 | [banking-system-java](https://github.com/ViniciuscLemos/banking-system-java) | A bank in the terminal: accounts, transfers inside a DB transaction, CPF validation | Java, SQLite |
 | [webscraper-python](https://github.com/ViniciuscLemos/webscraper-python) | Book scraper that saves to PostgreSQL or CSV/JSON and builds an HTML gallery | Python, BeautifulSoup |
