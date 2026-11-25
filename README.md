@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://viniciusclemos.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/viniciusclemos"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:viniciusclemos2006@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img alt="São Paulo, Brazil" src="https://img.shields.io/badge/São_Paulo,_BR-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -31,6 +32,8 @@
 ---
 
 ### Featured projects
+
+The same projects, clickable and with more detail, are on my [portfolio](https://viniciusclemos.github.io/).
 
 <table>
   <tr>
